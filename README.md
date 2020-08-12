@@ -18,8 +18,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
-
 <img align="left" alt="jorgelbg's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jorgelbg&show_icons=true&hide_border=true&hide_title=true&hide_rank=true" />
 
 [blog]: https://jorgelbg.me/
