@@ -23,8 +23,6 @@
 - [Useful alerts with Elastic Watcher & Machine Learning](//jorgelbg.me/2019/03/useful-alerts-with-elastic-watcher-machine-learning/)
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="jorgelbg's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jorgelbg&show_icons=true&hide_border=true&hide_title=true&hide_rank=true" />
-
 [blog]: https://jorgelbg.me/
 [dashflare]: https://jorgelbg.me/dashflare
 [twitter]: https://twitter.com/jorgelbg
