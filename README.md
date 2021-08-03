@@ -16,11 +16,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing pinentry-touchid](//jorgelbg.me/2021/08/introducing-pinentry-touchid/)
 - [Displaying geohash tags from a Loki datasource in a Grafana Worldmap Panel](//jorgelbg.me/2020/03/displaying-geohash-tags-from-a-loki-datasource-in-a-grafana-worldmap-panel/)
 - [Web UI for testing dissect patterns](//jorgelbg.me/2020/02/web-ui-for-testing-dissect-patterns/)
 - [Better URL search with Elasticsearch](//jorgelbg.me/2020/01/better-url-search-with-elasticsearch/)
 - [How to rename index patterns in Kibana](//jorgelbg.me/2019/05/how-to-rename-index-patterns-in-kibana/)
-- [Useful alerts with Elastic Watcher & Machine Learning](//jorgelbg.me/2019/03/useful-alerts-with-elastic-watcher-machine-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://jorgelbg.me/
